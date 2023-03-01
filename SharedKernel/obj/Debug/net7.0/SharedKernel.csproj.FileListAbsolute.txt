@@ -1,0 +1,12 @@
+C:\Users\Damzxyno\Desktop\ToDoApp\SharedKernel\bin\Debug\net7.0\SharedKernel.deps.json
+C:\Users\Damzxyno\Desktop\ToDoApp\SharedKernel\bin\Debug\net7.0\SharedKernel.dll
+C:\Users\Damzxyno\Desktop\ToDoApp\SharedKernel\bin\Debug\net7.0\SharedKernel.pdb
+C:\Users\Damzxyno\Desktop\ToDoApp\SharedKernel\obj\Debug\net7.0\SharedKernel.csproj.AssemblyReference.cache
+C:\Users\Damzxyno\Desktop\ToDoApp\SharedKernel\obj\Debug\net7.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damzxyno\Desktop\ToDoApp\SharedKernel\obj\Debug\net7.0\SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Damzxyno\Desktop\ToDoApp\SharedKernel\obj\Debug\net7.0\SharedKernel.AssemblyInfo.cs
+C:\Users\Damzxyno\Desktop\ToDoApp\SharedKernel\obj\Debug\net7.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Damzxyno\Desktop\ToDoApp\SharedKernel\obj\Debug\net7.0\SharedKernel.dll
+C:\Users\Damzxyno\Desktop\ToDoApp\SharedKernel\obj\Debug\net7.0\refint\SharedKernel.dll
+C:\Users\Damzxyno\Desktop\ToDoApp\SharedKernel\obj\Debug\net7.0\SharedKernel.pdb
+C:\Users\Damzxyno\Desktop\ToDoApp\SharedKernel\obj\Debug\net7.0\ref\SharedKernel.dll
